@@ -104,10 +104,10 @@
           <p>Archived website of Julie Kathryn</p>
         </daodesc>
         <daoloc xlink:href="https://wayback.archive-it.org/9900/*/http://www.iamsnowangel.com"
-          xlink:role="translation missing: en.enumerations.file_version_use_statement.external-link"
+          xlink:role="external-link"
           xlink:title="Archived website of Julie Kathryn" xlink:type="locator"/>
         <daoloc xlink:href="https://wayback.archive-it.org/4049/*/http://www.iamsnowangel.com"
-          xlink:role="translation missing: en.enumerations.file_version_use_statement.external-link"
+          xlink:role="external-link"
           xlink:title="Archived website of Julie Kathryn" xlink:type="locator"/>
       </daogrp>
       <materialspec label="Mathematical Data">
