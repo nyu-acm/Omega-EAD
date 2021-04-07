@@ -40,7 +40,7 @@
       </notestmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-03-29 09:17:46
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-04-07 16:33:42
           -0400</date>.</creation>
       <langusage>Finding aid written in <language langcode="eng" encodinganalog="546"
           >English</language>.</langusage>
@@ -307,12 +307,11 @@
           <physloc id="aspace_f3cdfc7ba5bcc54f1f0ff7893f0ae71b">Box 152</physloc>
           <langmaterial id="aspace_d346225d0e8db11008a962db2f193951">Level 2 <emph render="italic"
               >Materials</emph> are in <language>English</language>.</langmaterial>
-          <container altrender="Record carton" id="aspace_03600b0c92517d0bea736ebd4fa14d91"
+          <container altrender="Record carton" id="aspace_eb941f2475f16619b8945ae80c3debe0"
             label="mixed materials" type="box">1</container>
-          <container id="aspace_f22189eb86641eed1576e12be40500c9"
-            parent="aspace_03600b0c92517d0bea736ebd4fa14d91" type="folder">1</container>
-          <dao xlink:actuate="onRequest"
-            xlink:href="https://aeon.library.nyu.edu/remoteauth/aeon.dll?Logon&amp;Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/mos_2021.xml&amp;view=xml"
+          <container id="aspace_268d672477daa718be3a68af9b4be018"
+            parent="aspace_eb941f2475f16619b8945ae80c3debe0" type="folder">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/7h44j74d"
             xlink:role="audio-service" xlink:show="new" xlink:title="This is a digital object"
             xlink:type="simple">
             <daodesc>
@@ -504,7 +503,7 @@
           <corpname source="naf">Tamiment Library</corpname>
           <famname rules="dacs" source="local">Belfrage family</famname>
         </controlaccess>
-        <c id="aspace_68fd22d28746c12f37e250728431c61d" level="otherlevel" otherlevel="Sub-series">
+        <c id="aspace_68fd22d28746c12f37e250728431c61d" level="subseries">
           <did>
             <unittitle><emph render="italic">Level 3</emph> Series I. <persname>Megan
                 O'Shea</persname>
@@ -533,10 +532,10 @@
             <physloc id="aspace_0790e3e9da2aa63ac821c43c3823a5ea">Box 152</physloc>
             <langmaterial id="aspace_1676961983c252b748ee5d2ed7bce91c">Level 3 <emph render="italic"
                 >Materials</emph> are in <language>English</language>.</langmaterial>
-            <container altrender="Record carton" id="aspace_8d511f8527150a5db584dd8c2bef8cc9"
+            <container altrender="Record carton" id="aspace_e0c06279183c6621270f210f84353bf3"
               label="mixed materials" type="box">1</container>
-            <container id="aspace_a769ab93e1a1f6a589d244cb71511f94"
-              parent="aspace_8d511f8527150a5db584dd8c2bef8cc9" type="folder">1</container>
+            <container id="aspace_251b4ccb983632dd860def90123ca727"
+              parent="aspace_e0c06279183c6621270f210f84353bf3" type="folder">1</container>
             <daogrp xlink:title="Archived website of Julie Kathryn" xlink:type="extended">
               <daodesc>
                 <p>Archived website of Julie Kathryn</p>
@@ -548,9 +547,8 @@
                 xlink:role="external-link" xlink:title="Archived website of Julie Kathryn"
                 xlink:type="locator"/>
             </daogrp>
-            <dao xlink:actuate="onRequest"
-              xlink:href="https://aeon.library.nyu.edu/remoteauth/aeon.dll?Logon&amp;Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/mos_2021.xml&amp;view=xml"
-              xlink:role="audio-service" xlink:show="new" xlink:title="This is a digital object"
+            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/bnzs7m9t"
+              xlink:role="video-service" xlink:show="new" xlink:title="This is a digital object"
               xlink:type="simple">
               <daodesc>
                 <p>This is a digital object</p>
@@ -724,8 +722,7 @@
             <corpname source="naf">Tamiment Library</corpname>
             <famname rules="dacs" source="local">Belfrage family</famname>
           </controlaccess>
-          <c id="aspace_f35efa0f6a068b57a2d396067e4f7427" level="otherlevel"
-            otherlevel="Sub-sub-series">
+          <c id="aspace_f35efa0f6a068b57a2d396067e4f7427" level="subseries">
             <did>
               <unittitle><emph render="italic">Level 4</emph> Series I. <persname>Megan
                   O'Shea</persname>
@@ -756,10 +753,10 @@
               <physloc id="aspace_aec0166edc173f05326763b6b488cf26">Box 152</physloc>
               <langmaterial id="aspace_e89995070ff1a0de51f06a08c03193c7">Level 4 <emph render="bold"
                   >Materials</emph> in <language>English</language>.</langmaterial>
-              <container altrender="Record carton" id="aspace_188e27f1168c5a833d40718b95f9f882"
+              <container altrender="Record carton" id="aspace_18fed84c59dc9a27261cd102fcc88e95"
                 label="mixed materials" type="box">1</container>
-              <container id="aspace_dde89d231e21abd9b9bb480cb112da0a"
-                parent="aspace_188e27f1168c5a833d40718b95f9f882" type="folder">1</container>
+              <container id="aspace_0c85c4450574c1b2cc40353645cbc29e"
+                parent="aspace_18fed84c59dc9a27261cd102fcc88e95" type="folder">1</container>
               <daogrp xlink:title="Archived website of Julie Kathryn" xlink:type="extended">
                 <daodesc>
                   <p>Archived website of Julie Kathryn</p>
@@ -773,9 +770,8 @@
                   xlink:role="external-link" xlink:title="Archived website of Julie Kathryn"
                   xlink:type="locator"/>
               </daogrp>
-              <dao xlink:actuate="onRequest"
-                xlink:href="https://aeon.library.nyu.edu/remoteauth/aeon.dll?Logon&amp;Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/mos_2021.xml&amp;view=xml"
-                xlink:role="audio-service" xlink:show="new" xlink:title="This is a digital object"
+              <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/m63xss7g"
+                xlink:role="image-service" xlink:show="new" xlink:title="This is a digital object"
                 xlink:type="simple">
                 <daodesc>
                   <p>This is a digital object</p>
@@ -953,8 +949,7 @@
               <corpname source="naf">Tamiment Library</corpname>
               <famname rules="dacs" source="local">Belfrage family</famname>
             </controlaccess>
-            <c id="aspace_a8e8b321d84febb7aee747f54e624fc4" level="otherlevel"
-              otherlevel="Sub-sub-sub-series">
+            <c id="aspace_a8e8b321d84febb7aee747f54e624fc4" level="subseries">
               <did>
                 <unittitle><emph render="italic">Level 5</emph> Series I. <persname>Megan
                     O'Shea</persname>
@@ -987,10 +982,10 @@
                 <langmaterial id="aspace_9b0efe097064eb3e852f801492847a37">Level 5 <emph
                     render="italic">Materials</emph> are in
                   <language>English</language>.</langmaterial>
-                <container altrender="Record carton" id="aspace_aeef624990d7650ce633ce368585b13e"
+                <container altrender="Record carton" id="aspace_fde366da50577829907500484bb3efde"
                   label="mixed materials" type="box">1</container>
-                <container id="aspace_1f306b1aed27102afa7c3798f18f24a0"
-                  parent="aspace_aeef624990d7650ce633ce368585b13e" type="folder">1</container>
+                <container id="aspace_331c5669781cb855bb2015a425b4753e"
+                  parent="aspace_fde366da50577829907500484bb3efde" type="folder">1</container>
                 <daogrp xlink:title="Archived website of Julie Kathryn" xlink:type="extended">
                   <daodesc>
                     <p>Archived website of Julie Kathryn</p>
@@ -1004,9 +999,8 @@
                     xlink:role="external-link" xlink:title="Archived website of Julie Kathryn"
                     xlink:type="locator"/>
                 </daogrp>
-                <dao xlink:actuate="onRequest"
-                  xlink:href="https://aeon.library.nyu.edu/remoteauth/aeon.dll?Logon&amp;Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/mos_2021.xml&amp;view=xml"
-                  xlink:role="audio-service" xlink:show="new" xlink:title="This is a digital object"
+                <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/m63xss7g"
+                  xlink:role="image-service" xlink:show="new" xlink:title="This is a digital object"
                   xlink:type="simple">
                   <daodesc>
                     <p>This is a digital object</p>
@@ -1184,8 +1178,7 @@
                 <corpname source="naf">Tamiment Library</corpname>
                 <famname rules="dacs" source="local">Belfrage family</famname>
               </controlaccess>
-              <c id="aspace_bb018068fcbef8e42d90b29434d476d6" level="otherlevel"
-                otherlevel="Sub-sub-sub-sub-series">
+              <c id="aspace_bb018068fcbef8e42d90b29434d476d6" level="file">
                 <did>
                   <unittitle><emph render="italic">Level 6</emph> Series I. <persname>Megan
                       O'Shea</persname>
@@ -1217,10 +1210,10 @@
                   <langmaterial id="aspace_ef9750889531488bd00e1945167928ff">Level 6 <emph
                       render="italic">Materials</emph> in
                     <language>English</language>.</langmaterial>
-                  <container altrender="Record carton" id="aspace_315dca8be49e4a0fce3ab15f202d6f74"
+                  <container altrender="Record carton" id="aspace_7125a78a389f1cda6842704582342658"
                     label="mixed materials" type="box">1</container>
-                  <container id="aspace_0fc164a67e90bf18d31ba3a46308478d"
-                    parent="aspace_315dca8be49e4a0fce3ab15f202d6f74" type="folder">337</container>
+                  <container id="aspace_20587b3a6c0cad59ccfed53e7a2c06ff"
+                    parent="aspace_7125a78a389f1cda6842704582342658" type="folder">337</container>
                   <daogrp xlink:title="Archived website of Julie Kathryn" xlink:type="extended">
                     <daodesc>
                       <p>Archived website of Julie Kathryn</p>
@@ -1234,8 +1227,7 @@
                       xlink:role="external-link" xlink:title="Archived website of Julie Kathryn"
                       xlink:type="locator"/>
                   </daogrp>
-                  <dao xlink:actuate="onRequest"
-                    xlink:href="https://aeon.library.nyu.edu/remoteauth/aeon.dll?Logon&amp;Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/mos_2021.xml&amp;view=xml"
+                  <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/zpc86f31"
                     xlink:role="audio-service" xlink:show="new"
                     xlink:title="This is a digital object" xlink:type="simple">
                     <daodesc>
@@ -1416,6 +1408,12 @@
                   <corpname source="naf">Tamiment Library</corpname>
                   <famname rules="dacs" source="local">Belfrage family</famname>
                 </controlaccess>
+                <c id="aspace_71626d77bd977b19462b7319b0d4a5fb" level="file">
+                  <did>
+                    <unittitle>A File Nested Within a File, No Container</unittitle>
+                    <unitdate normal="1981-08-31/1981-08-31">1981-08-31</unitdate>
+                  </did>
+                </c>
               </c>
             </c>
           </c>
@@ -1427,7 +1425,7 @@
             <physloc id="aspace_a1505cc79395c354f713ced482260ea0">Box 152</physloc>
             <physloc id="aspace_68b441337b28f7782012a4e85066959d">Box 152</physloc>
             <physloc id="aspace_84f90467828627064ca55ffc7f1e8336">Box 152</physloc>
-            <container altrender="Record carton" id="aspace_9ed6c18270ce7d866dfefec12f188c5e"
+            <container altrender="Record carton" id="aspace_045d4022ab1020093c61c4767496cafc"
               label="mixed materials" type="box">1</container>
             <dao xlink:actuate="onRequest"
               xlink:href="https://aeon.library.nyu.edu/remoteauth/aeon.dll?Logon&amp;Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/mos_2021.xml&amp;view=xml"
@@ -1465,6 +1463,23 @@
             <bibref><emph render="italic">This is Not It: Stories</emph> . New York: Distributed Art
               Publishers, 2002.</bibref>
           </bibliography>
+        </c>
+        <c id="aspace_319857d7c2d36228d3335abb88396b2b" level="otherlevel" otherlevel="website">
+          <did>
+            <unittitle>The Dreaded Other Level</unittitle>
+            <unitdate normal="1981-09-02/1981-09-02">1981-09-02</unitdate>
+            <daogrp xlink:title="Archived website of Julie Kathryn" xlink:type="extended">
+              <daodesc>
+                <p>Archived website of Julie Kathryn</p>
+              </daodesc>
+              <daoloc xlink:href="https://wayback.archive-it.org/9900/*/http://www.iamsnowangel.com"
+                xlink:role="external-link" xlink:title="Archived website of Julie Kathryn"
+                xlink:type="locator"/>
+              <daoloc xlink:href="https://wayback.archive-it.org/4049/*/http://www.iamsnowangel.com"
+                xlink:role="external-link" xlink:title="Archived website of Julie Kathryn"
+                xlink:type="locator"/>
+            </daogrp>
+          </did>
         </c>
       </c>
     </dsc>
