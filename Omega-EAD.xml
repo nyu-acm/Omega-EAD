@@ -314,7 +314,7 @@
             label="mixed materials" type="box">1</container>
           <container id="aspace_3e378514974315119d35e619a686c6d4"
             parent="aspace_97aeb165b6f69d0120e9d7ce67faac18" type="folder">1</container>
-          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/7h44j74d"
+          <dao xlink:actuate="onRequest" xlink:href="https://hdl.handle.net/2333.1/7h44j74d"
             xlink:role="audio-service" xlink:show="new" xlink:title="This is a digital object"
             xlink:type="simple">
             <daodesc>
@@ -550,7 +550,7 @@
                 xlink:role="external-link" xlink:title="Archived website of Julie Kathryn"
                 xlink:type="locator"/>
             </daogrp>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/34tmpk87"
+            <dao xlink:actuate="onRequest" xlink:href="https://hdl.handle.net/2333.1/34tmpk87"
               xlink:role="video-service" xlink:show="new" xlink:title="This is a digital object"
               xlink:type="simple">
               <daodesc>
@@ -773,7 +773,7 @@
                   xlink:role="external-link" xlink:title="Archived website of Julie Kathryn"
                   xlink:type="locator"/>
               </daogrp>
-              <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/m63xss7g"
+              <dao xlink:actuate="onRequest" xlink:href="https://hdl.handle.net/2333.1/m63xss7g"
                 xlink:role="image-service" xlink:show="new" xlink:title="This is a digital object"
                 xlink:type="simple">
                 <daodesc>
@@ -1002,7 +1002,7 @@
                     xlink:role="external-link" xlink:title="Archived website of Julie Kathryn"
                     xlink:type="locator"/>
                 </daogrp>
-                <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/xgxd28gq"
+                <dao xlink:actuate="onRequest" xlink:href="https://hdl.handle.net/2333.1/xgxd28gq"
                   xlink:role="image-service" xlink:show="new" xlink:title="This is a digital object"
                   xlink:type="simple">
                   <daodesc>
@@ -1230,7 +1230,7 @@
                       xlink:role="external-link" xlink:title="Archived website of Julie Kathryn"
                       xlink:type="locator"/>
                   </daogrp>
-                  <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/zpc86f31"
+                  <dao xlink:actuate="onRequest" xlink:href="https://hdl.handle.net/2333.1/zpc86f31"
                     xlink:role="audio-service" xlink:show="new"
                     xlink:title="This is a digital object" xlink:type="simple">
                     <daodesc>
@@ -1492,7 +1492,7 @@
         <c id="dao1" level="file">
           <did>
             <unittitle>Audio-Service</unittitle>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/wm37q0k4"
+            <dao xlink:actuate="onRequest" xlink:href="https://hdl.handle.net/2333.1/wm37q0k4"
               xlink:role="audio-service" xlink:show="new"
               xlink:title="4th Annual Flaherty Seminar - Tape 1" xlink:type="simple">
               <daodesc>
@@ -1518,7 +1518,7 @@
         <c id="dao3" level="file">
           <did>
             <unittitle>Video-Service</unittitle>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/bnzs7m9t"
+            <dao xlink:actuate="onRequest" xlink:href="https://hdl.handle.net/2333.1/bnzs7m9t"
               xlink:role="video-service" xlink:show="new"
               xlink:title="[1]--Gay USA, Vol. [VIII] Episode No. 4 [Air date: 7/19/1990]"
               xlink:type="simple">
@@ -1544,7 +1544,7 @@
         <c id="dao5" level="file">
           <did>
             <unittitle>Image-Service</unittitle>
-            <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/ttdz0j92"
+            <dao xlink:actuate="onRequest" xlink:href="https://hdl.handle.net/2333.1/ttdz0j92"
               xlink:role="image-service" xlink:show="new"
               xlink:title="Envelope 1: Caven Point, NJ, 1984 w/Steve Brown" xlink:type="simple">
               <daodesc>
